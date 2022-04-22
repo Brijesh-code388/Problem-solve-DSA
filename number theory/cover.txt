@@ -1,0 +1,19 @@
+Algebra
+
+Binary Exponentiation
+Euclidean algorithm for computing the greatest common divisor
+Extended Euclidean Algorithm
+Linear Diophantine Equations
+Fibonacci Numbers
+
+Sieve of Eratosthenes
+Sieve of Eratosthenes With Linear Time Complexity
+Primality tests
+Integer factorization
+
+Euler's totient function (phi)
+Number of divisors / sum of divisors
+
+Modular Inverse
+Linear Congruence Equation
+Chinese Remainder Theorem
